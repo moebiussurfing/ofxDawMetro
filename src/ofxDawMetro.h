@@ -59,7 +59,7 @@ protected:
 
 	ofTimer mTimer;
 
-	// timer period for 16th row_params in nanoseconds
+	// timer period for 16th TARGET_NOTES_params in nanoseconds
 	uint64_t mPeriod;
 
 	std::vector<MetroListener *> mBarListeners;
